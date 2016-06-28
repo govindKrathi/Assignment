@@ -80,16 +80,12 @@ public class MinionAdapter extends BaseAdapter {
         viewHolder.image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ProgressDialog progressDialog = new ProgressDialog(context);
-                progressDialog.setTitle("Loading...");
-                progressDialog.setCancelable(false);
-                progressDialog.show();
+
                 Intent productDetails = new Intent(context, MinionDetailsActivity.class);
                 productDetails.putExtra("minionName",data.get(position).getName());
                 productDetails.putExtra("minionInfo",data.get(position).getInformation());
                 productDetails.putExtra("minionRatings",data.get(position).getRatings());
                 productDetails.putExtra("minionImage",data.get(position).getImgId());
-                progressDialog.dismiss();
                 context.startActivity(productDetails);
 
             }
