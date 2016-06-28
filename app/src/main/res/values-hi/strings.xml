@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit"> बाहर नीकले</string>
+    <string name="language">English</string>
+    <string name="app_name">असाइनमेंट</string>
+
+    <string name="avatar_info">अवतार नीले रंग में होते है । यह मिनियन अवतार है कि सभी की क्षमता पकड़ सकते हैं |</string>
+    <string name="black_widow_info">काली विधवा मिनियन महिला है। इस महिला चरित्र एवेंजर्स फिल्म से लिया जाता है । यह लड़की उद्देश्य से लड़ने के लिए प्रशिक्षित किया गया है । इस वजह से वह superwomen या सुपर हीरो की एक टैग है ।</string>
+    <string name="demi_lovato_info">डेमी लोवेटो जो एक अमेरिकी गायक, गीतकार, अभिनेत्री और मॉडल है के लिए अंक। वह हॉलीवुड रिकॉर्ड्स के साथ एक रिकॉर्डिंग अनुबंध पर हस्ताक्षर किए । बी कलाकार , संगीत, लोवेटो एक पॉप</string>
+    <string name="hamada_info">Hamada मिनियन जो उसके चेहरे पर मूंछें है। यह पुरुष चरित्र Gru मुझे नीच फिल्म में के साथ काम करता है</string>
+    <string name="iron_man_info">आयरन मैन सुपर हीरो के कृपापात्र है । यह पुरुष चरित्र बदला लेने वाला फिल्म से लिया जाता है। उन्होंने लोहे के हथियार और प्रौद्योगिकी का पूरा सूट है।</string>
+    <string name="jack_sparrow_info">जैक स्पैरो का मिनियन कैरेबियन फिल्म के समुद्री डाकुओं से चरित्र को प्रतिबिंबित करता है । यह पुरुष एक समुद्री डाकू जहाज के कप्तान की भूमिका निभाता है।</string>
+    <string name="joker_info">जोकर बैटमैन के कृपापात्र डार्क नाइट फिल्म से लिया जाता है। उन्होंने खलनायक की भूमिका निभाता है।</string>
+    <string name="kevin_info">मिनियन केविन मुझे नीच फिल्म से वास्तविक चरित्र है। यह पुरुष चरित्र सलाहकार के रूप में Gru के कारखाने में काम करता है।</string>
+    <string name="lady_gaga_info">इस  महिला लेडी गागा जो एक अमेरिकी गायक, गीतकार, और अभिनेत्री है के लिए अंक। वह अपने बचपन से ही संगीत में अपने कैरियर शुरू करते हैं।</string>
+    <string name="selena_gomez_info"> सेलेना गोमेज़ कृपापात्र एक अमेरिकी अभिनेत्री और गायक है। यह महिलाओं के बच्चों के टेलीविजन श्रृंखला में लड़की के रूप में कार्य करता है।</string>
+    <string name="bob_info">बॉब मुझे नीच फिल्म से पुरुष नोकर है । कौन एक नजर है।</string>
+    <string name="shakira_info"> शकीरा को इस महिला नोकर अंक हैं, जो एक कोलम्बियाई गायक, गीतकार, नर्तकी , रिकार्ड निर्माता, कोरियोग्राफर, और मॉडल है। वह फोर्ब्स द्वारा दुनिया में 58 वें सबसे शक्तिशाली महिला के रूप में सूचीबद्ध किया गया।</string>
+    <string name="spiderman_info">स्पाइडरमैन कृपापात्र ही लग गया है और मूल रूप से एक लग रहा है। वह पुरुष चरित्र है जो मकड़ी है कि उसे सुपर हीरो में धर्मान्तरित ने काट लिया जाता है। उन्होंने कहा कि सिविल युद्ध फिल्म में काम करता है और अगले एवेंजर्स में आ जाएगा ।</string>
+
+
+    <string name="avatar">अवतार</string>
+    <string name="black_widow">काली विधवा</string>
+    <string name="bob">बॉब</string>
+    <string name="demi_lovato">डेमी लोवेटो</string>
+    <string name="hamada">hamada</string>
+    <string name="iron_man">आयरन मैन</string>
+    <string name="jack_sparrow">जैक स्पैरो</string>
+    <string name="joker">जोकर</string>
+    <string name="kevin">केविन</string>
+    <string name="lady_gaga">लेडी गागा</string>
+    <string name="selena_gomez">सेलेना गोमेज़</string>
+    <string name="shakira">शकीरा</string>
+    <string name="spiderman">स्पाइडरमैन</string>
+</resources>

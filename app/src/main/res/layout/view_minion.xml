@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_shape"
+    >
+
+    <ImageView
+        android:id="@+id/ui_minion_image"
+        android:layout_width="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_height="240dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignBottom="@+id/ui_minion_image"
+        android:background="@android:color/darker_gray">
+
+        <TextView
+            android:id="@+id/ui_minion_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1"
+            android:padding="5dp"
+            android:text="name"
+            android:maxLength="15"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/ui_minion_rating"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textAlignment="center"
+            android:layout_weight="0.6"
+            android:padding="5dp"
+            android:text="PRICE"
+            android:textColor="@android:color/white" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="25dp"
+            android:layout_weight="0.3"
+            android:src="@drawable/ic_rating"/>
+    </LinearLayout>
+
+</RelativeLayout>

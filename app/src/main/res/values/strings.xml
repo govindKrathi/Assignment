@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="search_result">Search Result!</string>
+
+    <string name="search_hint">Type and Search</string>
+    <string name="menu_search">Search</string>
+
+    <string name="exit">Exit</string>
+    <string name="language">हिंदी</string>
+
+
+    <string name="avatar_info">Avatar minion is blue in colour. It has all ability that avatar can hold.</string>
+    <string name="black_widow_info">Black Widow minion is women. This female character is taken from the Avengers movie. This girl has trained for fighting purpose. Because of this she has a tag of superwomen or superhero.</string>
+    <string name="demi_lovato_info">This minion points to Demi Lovato who is an American singer, songwriter, actress and model. She signed a recording contract with Hollywood Records. Musically, Lovato is considered a pop, pop rock and R&amp;B artist.</string>
+    <string name="iron_man_info">Iron man is minion of superhero. This male character is taken from Avenger Movie. He has Iron suit full of weapons and technology.</string>
+    <string name="joker_info">Joker minion is taken from Dark Knight movie of batman.He plays role of villian.</string>
+    <string name="lady_gaga_info">This minion points to women Lady Gaga who is an American singer, songwriter, and actress. She start her career in music from her childhood.</string>
+    <string name="kevin_info">Minion kevin is real character from despicable me movie. This male character works in gru factory as advisor.</string>
+    <string name="hamada_info">Hamada is minions who has moustache on his face. This male character works with gru in despicable me movie </string>
+    <string name="selena_gomez_info">Selena gomez minion is an American actress and singer. This women acts as girl in children television series.</string>
+    <string name="jack_sparrow_info">Minion of Jack Sparrow is reflect the character from pirates of caribbean movie. This male plays role of captain of a pirate ship.</string>
+    <string name="shakira_info">This female minion points to Shakira who is a Colombian singer, songwriter, dancer, record producer, choreographer, and model. she was listed as the 58th most powerful woman in the world by Forbes.</string>
+    <string name="spiderman_info">Spiderman minion has same look and feel as original one. He is male character who is bitten by spider that converts him to superhero. He acts in Civil war movie and will be come in next avengers.</string>
+    <string name="bob_info">Bob is male minion from despicable me movie. Who has one eye.</string>
+
+
+    <string name="avatar">Avatar</string>
+    <string name="black_widow">Black Widow</string>
+    <string name="demi_lovato">Demi Lovato</string>
+    <string name="iron_man">Iron man</string>
+    <string name="joker">Joker</string>
+    <string name="lady_gaga">Lady gaga</string>
+    <string name="kevin">Kevin</string>
+    <string name="hamada">Hamada</string>
+    <string name="selena_gomez">Selena Gomez</string>
+    <string name="jack_sparrow">Jack Sparrow</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="shakira">Shakira</string>
+    <string name="bob">Bob</string>
+    <string name="title_activity_minion_details">MinionDetailsActivity</string>
+
+
+</resources>
